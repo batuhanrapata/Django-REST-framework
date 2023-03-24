@@ -1,5 +1,5 @@
 # Django-REST-framework
-Rest Framework CRUD api with PostgreSQL
+Rest Framework CRUD api with PostgreSQL with Login module
 
 This is a code snippet written in Python for a simple user management system API. It includes several classes that handle user creation, deletion, and updating, as well as a health check endpoint and a login endpoint.
 
